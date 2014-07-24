@@ -1,4 +1,1 @@
-gauge-dashboard
-===============
-
-Attempt at integrating various tools with Dashing Dashboard
+Check out http://shopify.github.com/dashing for more information.
