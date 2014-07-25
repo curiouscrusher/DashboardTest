@@ -9,7 +9,6 @@ gem 'json'
 gem 'harvested'
 
 
-gem 'activesupport'
 
 gem 'xml-simple'
 
