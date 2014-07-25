@@ -4,7 +4,7 @@ HARVEST_SUBDOMAIN = ''
 HARVEST_EMAIL = ''
 HARVEST_PASSWORD = ''
 # Interval for jobs to schedule
-HARVEST_JOB_INTERVAL = '5m'
+HARVEST_JOB_INTERVAL = '15m'
 # Delay for first run of jobs
 HARVEST_JOB_FIRST_IN = 0
 
