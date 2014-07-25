@@ -11,8 +11,6 @@ gem 'harvested'
 
 gem 'activesupport'
 
-gem 'execjs'
-
 gem 'therubyracer'
 
 gem 'rest-graph'

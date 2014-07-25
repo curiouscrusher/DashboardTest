@@ -112,7 +112,6 @@ PLATFORMS
 DEPENDENCIES
   activesupport
   dashing
-  execjs
   harvested
   json
   rest-client
