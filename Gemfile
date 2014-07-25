@@ -6,6 +6,6 @@ gem 'dashing'
 
 gem 'json'
 
-gem 'harvested'
+# gem 'harvested'
 
-gem 'activesupport'
+# gem 'activesupport'

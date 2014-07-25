@@ -1,9 +1,6 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (3.2.12)
-      i18n (~> 0.6)
-      multi_json (~> 1.0)
     backports (3.6.0)
     coffee-script (2.2.0)
       coffee-script-source
@@ -23,19 +20,9 @@ GEM
       thor (~> 0.18.1)
     eventmachine (1.0.3)
     execjs (2.0.2)
-    harvested (2.0.0)
-      hashie (~> 1)
-      httparty
-      json
-    hashie (1.2.0)
     hike (1.2.3)
-    httparty (0.10.2)
-      multi_json (~> 1.0)
-      multi_xml (>= 0.5.2)
-    i18n (0.6.4)
     json (1.8.1)
     multi_json (1.10.1)
-    multi_xml (0.5.3)
     rack (1.5.2)
     rack-protection (1.5.3)
       rack
@@ -74,7 +61,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activesupport
   dashing
-  harvested
   json
