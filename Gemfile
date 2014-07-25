@@ -9,8 +9,7 @@ gem 'json'
 gem 'harvested'
 
 
-
-gem 'xml-simple'
+gem 'activesupport'
 
 gem 'execjs'
 
