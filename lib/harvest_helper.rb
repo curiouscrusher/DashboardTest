@@ -1,6 +1,6 @@
 require 'harvested'
 
-HARVEST_SUBDOMAIN = 'nathanielholland.harvestapp.com'
+HARVEST_SUBDOMAIN = 'nathanielholland'
 HARVEST_EMAIL = 'nateholland6@gmail.com'
 HARVEST_PASSWORD = 'please123'
 # Interval for jobs to schedule
