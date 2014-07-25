@@ -25,24 +25,14 @@ GEM
     execjs (2.0.2)
     faraday (0.9.0)
       multipart-post (>= 1.2, < 3)
-    harvested (2.0.0)
-      hashie (~> 1)
-      httparty
-      json
-    hashie (1.2.0)
     hike (1.2.3)
     http (0.6.1)
       http_parser.rb (~> 0.6.0)
     http_parser.rb (0.6.0)
-    httparty (0.10.2)
-      multi_json (~> 1.0)
-      multi_xml (>= 0.5.2)
     json (1.8.1)
     memoizable (0.4.2)
       thread_safe (~> 0.3, >= 0.3.1)
-    mime-types (1.25.1)
     multi_json (1.10.1)
-    multi_xml (0.5.3)
     multipart-post (2.0.0)
     naught (1.0.0)
     rack (1.5.2)
@@ -50,12 +40,6 @@ GEM
       rack
     rack-test (0.6.2)
       rack (>= 1.0)
-    rdoc (4.1.1)
-      json (~> 1.4)
-    rest-client (1.6.8)
-      mime-types (~> 1.16)
-      rdoc (>= 2.4.2)
-    rest-graph (2.0.2)
     rufus-scheduler (2.0.24)
       tzinfo (>= 0.3.22)
     sass (3.2.19)
@@ -102,8 +86,5 @@ PLATFORMS
 
 DEPENDENCIES
   dashing
-  harvested
   json
-  rest-client
-  rest-graph
   twitter (>= 5.9.0)
