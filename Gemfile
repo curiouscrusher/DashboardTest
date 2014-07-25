@@ -5,7 +5,3 @@ ruby '2.0.0'
 gem 'dashing'
 
 gem 'json'
-
-# gem 'harvested'
-
-# gem 'activesupport'
