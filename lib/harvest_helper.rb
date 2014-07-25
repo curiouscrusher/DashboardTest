@@ -1,10 +1,10 @@
 require 'harvested'
 
-HARVEST_SUBDOMAIN = ''
-HARVEST_EMAIL = ''
-HARVEST_PASSWORD = ''
+HARVEST_SUBDOMAIN = 'nathanielholland.harvestapp.com'
+HARVEST_EMAIL = 'nateholland6@gmail.com'
+HARVEST_PASSWORD = 'please123'
 # Interval for jobs to schedule
-HARVEST_JOB_INTERVAL = '15m'
+HARVEST_JOB_INTERVAL = '5m'
 # Delay for first run of jobs
 HARVEST_JOB_FIRST_IN = 0
 
